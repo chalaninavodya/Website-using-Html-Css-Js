@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.header {
+    background-color: grey;
+    height: 20px;
+    width: 100%;
+    padding: 6px;
+    display: block;
+    justify-content: left;
+    position:  fixed;
+    top: 0px;
+    
+    
+}
+ #red { 
+    color: red;
+}
+#yellow {
+    color: yellow;
+}
+#green {
+    color: green;
+}
+#left {
+   color: #d1d8e0;
+}
+.cha {
+   width: 50%;
+   display: inline-table;
+   margin-right: 20%;
+   margin-left: 20%;
+}
+.fa-redo {
+    width: 10%;
+    
+}
+img {
+    width: 5%;
+    display: block;
+    float: right;
+}
